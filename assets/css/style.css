@@ -23,3 +23,10 @@
   width: 200px;
   height: 200px;
 }
+
+#key{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border:solid black 2px;
+}
