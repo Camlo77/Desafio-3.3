@@ -22,4 +22,4 @@ Proyecto de práctica que trabaja con manipulación del DOM mediante eventos de 
 
 ## Demo
 
-🔗 [Ver proyecto en GitHub Pages](https://camlo77.github.io/nombre-del-repo/)
+🔗 [Ver proyecto en GitHub Pages](https://camlo77.github.io/Desafio-3.3/)
