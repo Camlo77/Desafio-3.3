@@ -1,4 +1,25 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#primerDiv {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+#segundoDiv {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+#tercerDiv {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+#cuartoDiv {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
 }
